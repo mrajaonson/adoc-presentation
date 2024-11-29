@@ -1,0 +1,21 @@
+= Presentation Title
+:source-highlighter: highlight.js
+:revealjsdir: ../node_modules/reveal.js/
+:revealjs_theme: solarized
+:revealjs_transitionSpeed: fast
+
+== Slide One
+
+* Foo
+* Bar
+* World
+
+== Slide Two
+
+A Great Story
+
+[.notes]
+--
+* tell anecdote
+* make a point
+--

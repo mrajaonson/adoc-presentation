@@ -1,0 +1,24 @@
+{
+  "name": "adoc-presentation",
+  "version": "1.0.0",
+  "description": "Generate presentation using asciidoctor and @asciidoctor/reveal.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrajaonson/adoc-presentation.git"
+  },
+  "author": "mrajaonson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrajaonson/adoc-presentation/issues"
+  },
+  "homepage": "https://github.com/mrajaonson/adoc-presentation#readme",
+  "dependencies": {
+    "@asciidoctor/reveal.js": "^5.1.0",
+    "asciidoctor": "^3.0.4",
+    "highlight.js": "^11.10.0"
+  }
+}
